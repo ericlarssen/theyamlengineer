@@ -29,6 +29,8 @@ author:
   name:         Eric Larssen
   email:        elarssen91@gmail.com
 
+google_analytics: UA-160648789-1
+
 # Build settings
 remote_theme: chesterhow/tale
 
